@@ -32,7 +32,7 @@ Ella is a modular extension to our core platform, combining the infrastructure o
 
 ### 2. The Interface: ElevenLabs Conversational AI
 Ella is powered by the **ElevenLabs Conversational Agent SDK**.
-*   **The Brain:** We configured the agent to use **Gemini 1.5 Pro** (via ElevenLabs integration) for its reasoning capabilities.
+*   **The Brain:** We configured the agent to use **Gemini 2.5 FLash** (via ElevenLabs integration) for its fast response and cost efficiency.
 *   **The Voice:** We utilized a custom professional voice clone to match our "Science Communicator" persona.
 *   **The Bridge:** We built a dynamic context injection system. When a user opens an article, the frontend scrapes the specific scientific findings and injects them into Ella's context window.
 
